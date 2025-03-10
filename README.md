@@ -26,6 +26,11 @@ This portfolio is a compilation of all the Computer Science and Data Science pro
 <!-- You'll need to add an image here.  Assuming you have an image named 'project_image.png' in your repository: -->
 <!--  ![Project Image](project_image.png) -->
 
-### Customer Survival Analysis and Churn Prediction
+### Optimization of Formula 1 Calendar
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku.
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Optimization of Formula 1 Calendar](https://github.com/Ol1viaW/Optimization-Formula-1-Calendar)**
+
+In this project I developed code to optimize the racing calendar to minimize the carbon footprint and the total
+distance traveled between races given specified weather and location constraints
+
+
