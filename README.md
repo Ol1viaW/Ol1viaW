@@ -15,19 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Data Science Portfolio - 
+# Portfolio - Olivia Wahl
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
-
-- Email: [archdesai.ad@gmail.com](mailto:archdesai.ad@gmail.com)
-- LinkedIn: [linkedin.com/archd3sai](https://linkedin.com/archd3sai)
-
-## Achievements
-
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- Publication: Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
+This Portfolio is a compilation of all the Computer Science and Data Science and projects I have done for academic, self-learning and hobby purposes. 
+- Email: [Oliviawahl@berkeley.edu](mailto:oliviawahl@berkeley.edu)
+- LinkedIn: [linkedin.com/olivia-wahl-math123](www.linkedin.com/in/olivia-wahl-math123)
 
 ## Projects
 
