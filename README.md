@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 This Portfolio is a compilation of all the Computer Science and Data Science and projects I have done for academic, self-learning and hobby purposes. 
 - Email: [Oliviawahl@berkeley.edu](mailto:oliviawahl@berkeley.edu)
-- LinkedIn: [linkedin.com/olivia-wahl-math123](www.linkedin.com/in/olivia-wahl-math123)
+- LinkedIn: [linkedin.com/olivia-wahl-math123](https://linkedin.com/olivia-wahl-math123)
 
 ## Projects
 
