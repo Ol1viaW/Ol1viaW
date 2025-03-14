@@ -28,7 +28,7 @@ In collaboration with the Pickering Lab at UC Berkeley, I analyzed time burden o
 
 ## 
 
-<img align="left" width="220" height="120" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Optimization of Formula 1 Calendar](https://github.com/Ol1viaW/Optimization-Formula-1-Calendar)**  
+<img align="left" width="220" height="120" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/Optimization.png"> **[Optimization of Formula 1 Calendar](https://github.com/Ol1viaW/Optimization-Formula-1-Calendar)**  
 In this project, I developed python and AMPL code to optimize the racing calendar to minimize the carbon footprint and the total distance traveled between races given specified weather and location constraints.  
 
 ##
