@@ -35,3 +35,9 @@ I created a game featuring randomly generated worlds with interconnected rooms a
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/Spam.png">**[Identifying Spam Emails](https://github.com/Ol1viaW/Identifying-Spam-Emails)**  
 
 I built a binary classification to identify spam emails using feature engineering, logistic regression, and cross-validation
+
+
+
+#
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/Spam.png">**[Housing Price Prediction](https://github.com/Ol1viaW/Housing-Price-Prediction)**  
+I worked to create a fairer housing price prediction model utilizing data from Cook County, Illinois through data analysis and multi-dimensional data visualization
