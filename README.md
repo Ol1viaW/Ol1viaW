@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 
 # Portfolio - Olivia Wahl
 
-This portfolio is a compilation of all the Computer Science and Data Science projects I have completed for academic and self-learning purposes from cybersecurity to data analytics.
+This portfolio is a compilation of Computer Science and Data Science projects I have completed for academic and self-learning purposes from cybersecurity to data analytics.
 - Email: [Oliviawahl@berkeley.edu](mailto:oliviawahl@berkeley.edu)
 - LinkedIn: [linkedin.com/in/olivia-wahl-math123](https://linkedin.com/in/olivia-wahl-math123)
 
 ## Projects
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Research: Time Burden of Water Purification](https://github.com/Ol1viaW/Time-Burden-Water-Purification)**  
+In collaboration with the Pickering Lab at UC Berkeley, I analyzed time burden of purifying water by compiling data from nationally representative surveys, harmonized variables using the DHS API, and ran statistical analyses in R. I also developed automated scripts to process text from 600+ research papers, enhancing efficiency in literature review and keyword identification.
+
+
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Optimization of Formula 1 Calendar](https://github.com/Ol1viaW/Optimization-Formula-1-Calendar)**  
 
 In this project, I developed code to optimize the racing calendar to minimize the carbon footprint and the total distance traveled between races given specified weather and location constraints.  
