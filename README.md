@@ -36,8 +36,11 @@ I created a game featuring randomly generated worlds with interconnected rooms a
 
 I built a binary classification to identify spam emails using feature engineering, logistic regression, and cross-validation
 
-
-
 #
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/Housing.png">**[Housing Price Prediction](https://github.com/Ol1viaW/Housing-Price-Prediction)**  
 I worked to create a fairer housing price prediction model utilizing data from Cook County, Illinois through data analysis and multi-dimensional data visualization
+
+
+#
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/RSA.png">**[RSA Algorithm for Cryptography](https://github.com/Ol1viaW/RSA-Encryption-Decryption)**
+I coded an RSA algorithm to encrypt and decrypt a message using a public and private key with the encryption based on the difficulty of factoring. The private key relies on calculations based on the Extended Euclidean algorithm. 
