@@ -24,18 +24,20 @@ This portfolio is a compilation of all the Computer Science and Data Science pro
 ## Projects
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Optimization of Formula 1 Calendar](https://github.com/Ol1viaW/Optimization-Formula-1-Calendar)**  
 
-In this project, I developed code to optimize the racing calendar to minimize the carbon footprint and the total  
-distance traveled between races given specified weather and location constraints.  
+In this project, I developed code to optimize the racing calendar to minimize the carbon footprint and the total distance traveled between races given specified weather and location constraints.  
 
 #
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/World.png">**[Game With Randomly Generated Worlds](https://github.com/Ol1viaW/Game-With-Randomly-Generated-Worlds)**  
 
-I created a game featuring randomly generated worlds with interconnected rooms and hallways. Adapted Prim’s  
-algorithm to traverse and connect rooms in a grid-based environment, ensuring all rooms are fully connected with  
-minimal total hallway distance.
-
+I created a game featuring randomly generated worlds with interconnected rooms and hallways. I adapted Prim’s algorithm to traverse and connect rooms in a grid-based environment, ensuring all rooms are fully connected with minimal total hallway distance.
 
 #
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/Spam.png">**[Identifying Spam Emails](https://github.com/Ol1viaW/Identifying-Spam-Emails)**  
 
 I built a binary classification to identify spam emails using feature engineering, logistic regression, and cross-validation
+
+
+
+#
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/Housing.png">**[Housing Price Prediction](https://github.com/Ol1viaW/Housing-Price-Prediction)**  
+I worked to create a fairer housing price prediction model utilizing data from Cook County, Illinois through data analysis and multi-dimensional data visualization
