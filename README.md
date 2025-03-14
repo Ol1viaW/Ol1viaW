@@ -45,6 +45,8 @@ I worked to create a fairer housing price prediction model utilizing data from C
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/RSA.png">**[RSA Algorithm for Cryptography](https://github.com/Ol1viaW/RSA-Encryption-Decryption)**
 I coded an RSA algorithm to encrypt and decrypt a message using a public and private key with the encryption based on the difficulty of factoring. The private key relies on calculations based on the Extended Euclidean algorithm. 
 
+#
+
 <img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/Digits.png">**[Machine Learning Algorithm to Identify Handwriting Numbers](https://sites.google.com/view/computervisionwrittentotext/our-project?authuser=0)**
 Worked with a team to develop and evaluate a logistic regression, a support vector, a random forest, a K-Means
 clustering, and a Naive Bayes machine learning algorithm that could identify handwritten digits
