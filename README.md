@@ -23,7 +23,7 @@ This portfolio is a compilation of Computer Science and Data Science projects I 
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https:/raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/water.png"> **[Research: Time Burden of Water Purification](https://github.com/Ol1viaW/Time-Burden-Water-Purification)**  
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/water.png">**[Research: Time Burden of Water Purification](https://github.com/Ol1viaW/Time-Burden-Water-Purification)**  
 In collaboration with the Pickering Lab at UC Berkeley, I analyzed time burden of purifying water by compiling data from nationally representative surveys, harmonized variables using the DHS API, and ran statistical analyses in R. I also developed automated scripts to process text from 600+ research papers, enhancing efficiency in literature review and keyword identification.
 
 
