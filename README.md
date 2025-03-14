@@ -22,15 +22,14 @@ This portfolio is a compilation of all the Computer Science and Data Science pro
 - LinkedIn: [linkedin.com/in/olivia-wahl-math123](https://linkedin.com/in/olivia-wahl-math123)
 
 ## Projects
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Optimization of Formula 1 Calendar](https://github.com/Ol1viaW/Optimization-Formula-1-Calendar)**  
 
-<!-- You'll need to add an image here.  Assuming you have an image named 'project_image.png' in your repository: -->
-<!--  ![Project Image](project_image.png) -->
+In this project, I developed code to optimize the racing calendar to minimize the carbon footprint and the total  
+distance traveled between races given specified weather and location constraints.  
 
-### Optimization of Formula 1 Calendar
+#
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/World.png">**[Game With Randomly Generated Worlds](https://github.com/Ol1viaW/Game-With-Randomly-Generated-Worlds)**  
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Optimization of Formula 1 Calendar](https://github.com/Ol1viaW/Optimization-Formula-1-Calendar)**
-
-In this project I developed code to optimize the racing calendar to minimize the carbon footprint and the total
-distance traveled between races given specified weather and location constraints
-
-
+I created a game featuring randomly generated worlds with interconnected rooms and hallways. Adapted Prim’s  
+algorithm to traverse and connect rooms in a grid-based environment, ensuring all rooms are fully connected with  
+minimal total hallway distance.
