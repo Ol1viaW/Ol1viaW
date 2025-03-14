@@ -33,3 +33,9 @@ distance traveled between races given specified weather and location constraints
 I created a game featuring randomly generated worlds with interconnected rooms and hallways. Adapted Prim’s  
 algorithm to traverse and connect rooms in a grid-based environment, ensuring all rooms are fully connected with  
 minimal total hallway distance.
+
+
+#
+<img align="left" width="250" height="150" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/Spam.png">**[Identifying Spam Emails](https://github.com/Ol1viaW/Identifying-Spam-Emails)**  
+
+I built a binary classification to identify spam emails using feature engineering, logistic regression, and cross-validation
