@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 
 # Portfolio - Olivia Wahl
 
-This portfolio is a compilation of Computer Science and Data Science projects I have completed for academic and self-learning purposes from cybersecurity to data analytics.
+This portfolio is a compilation of Computer Science and Data Science projects I have completed for academic and self-learning purposes from cybersecurity to data analysis.
 - Email: [Oliviawahl@berkeley.edu](mailto:oliviawahl@berkeley.edu)
 - LinkedIn: [linkedin.com/in/olivia-wahl-math123](https://linkedin.com/in/olivia-wahl-math123)
 
 ## Projects
+<img align="left" width="220" height="120" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/Audit.png">**[Gilead Sciences: Identifying Anomalies in OPEX](https://github.com/Ol1viaW/Time-Burden-Water-Purification)**  
+
+I worked with a team of interns to build an anomaly detection system using an Isolation Forest Machine Learning model, causal inference,
+clustering algorithms, and time-series analysis. We applied the model to Gilead’s general ledger to flag anomalous cost centers and transactions. We also presented key findings to Gilead’s VP of audit. The code and analysis is redacted for confidentiality.
+##
 
 <img align="left" width="220" height="120" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/water.png">**[Research: Time Burden of Water Purification](https://github.com/Ol1viaW/Time-Burden-Water-Purification)**  
 
