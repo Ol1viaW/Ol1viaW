@@ -22,7 +22,7 @@ This portfolio is a compilation of Computer Science and Data Science projects I 
 - LinkedIn: [linkedin.com/in/olivia-wahl-math123](https://linkedin.com/in/olivia-wahl-math123)
 
 ## Projects
-<img align="left" width="220" height="120" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/Audit.png">**[Gilead Sciences: Identifying Anomalies in OPEX]**  
+<img align="left" width="220" height="120" src="https://raw.githubusercontent.com/Ol1viaW/Ol1viaW/master/Images/Audit.png">**[Gilead Sciences: Identifying Anomalies in OPEX]()**  
 
 I worked with a team of interns to build an anomaly detection system using an Isolation Forest Machine Learning model, causal inference,
 clustering algorithms, and time-series analysis. We applied the model to Gilead’s general ledger to flag anomalous cost centers and transactions. We also presented key findings to Gilead’s VP of audit. The code and analysis is redacted for confidentiality.
